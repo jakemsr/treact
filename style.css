@@ -1203,7 +1203,11 @@ footer {
 }
 
 
-/* laptops */
+/*
+
+DYNAMIC SIZING
+
+*/
 
 
 @media (max-width: 1280px) {
@@ -1250,7 +1254,6 @@ footer {
         width: calc(100% - 40%);
     }
 }
-
 
 @media (max-width: 1024px) {
     h1 {
